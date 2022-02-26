@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="net_qty">NET QTY:</string>
+    <string name="lpt">LPT:</string>
+    <string name="psl">PSL:</string>
+    <string name="current_value_label">Current Value</string>
+    <string name="total_investment">Total Investment</string>
+    <string name="total_profit_and_loss">Total Profit and Loss</string>
+    <string name="profit_and_loss">Profit and Loss</string>
+    <string name="create_new_playlist">Create New PlayList</string>
+</resources>
